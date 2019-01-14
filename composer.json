@@ -1,0 +1,9 @@
+{
+    "require": {
+        "react/stream": "1.1.0",
+        "react/promise": "^2.7",
+        "react/promise-stream": "^1.1",
+        "clue/mq-react": "^1.1",
+        "clue/buzz-react": "^2.5"
+    }
+}
